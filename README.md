@@ -4,7 +4,7 @@
 
 > Follow Me On Social Media
 
-# <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="40px">  Used Languages  
+# <img src="https://1.bp.blogspot.com/-t2uWcfIMjOc/YVRpTY26j_I/AAAAAAAAAuA/VgKMB9pIv5EefR2mLUdOoiMdmazyV1pnQCNcBGAsYHQ/s128/ghost.gif" width="40px">  Used Languages  
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Movindu-tb/aboutme)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/Movindu-tb/aboutme)
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Movindu-tb/aboutme)
