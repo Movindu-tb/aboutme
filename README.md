@@ -8,3 +8,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Movindu-tb/aboutme)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/Movindu-tb/aboutme)
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Movindu-tb/aboutme)
+
+[![Sparkline](https://stars.medv.io/Movindu-tb/aboutme.svg)](https://stars.medv.io/Movindu-tb/aboutme)
